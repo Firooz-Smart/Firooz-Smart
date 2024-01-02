@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 
 
 - 🔭 I’m currently working on insgo app
 - 🌱 I’m currently learning node.js
